@@ -1,0 +1,16 @@
+Version History:
+1.0.0: 
+2-9-13-2024
+Inital Version.
+Uploaded to Github.
+
+Current Features as of V-1.0.0:
+User can enter in any number of flowers, and be given a prediction of what type of flower it may be.
+
+
+
+Future Features:
+- Add predicted flower to CSV file
+- Refactor code for readability
+- Implement Vectors for dynamic space allocation
+- 
