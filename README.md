@@ -1,10 +1,8 @@
-# Iris-Flower-Predictor
-
 # Israel Showell
 # Start Date: 2-9-2024
 # End Date: 2-13-2024
 # Project:
-Iris Flowers Predictor
+# Iris Flowers Predictor
 # Version: 1.0.0
 
 # Description:
