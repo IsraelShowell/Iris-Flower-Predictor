@@ -375,9 +375,9 @@ void samplemean(string arr[][COL], double numofflower, string type, double arr1[
     cout << spmean << endl;
 
     arr1[1][0] = spmean;
-    arr1[1][1] = spmean;
-    arr1[1][2] = spmean;
-    arr1[1][3] = spmean;
+    arr1[1][1] = spmean2;
+    arr1[1][2] = spmean3;
+    arr1[1][3] = spmean4;
 
 }
 
