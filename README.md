@@ -14,9 +14,13 @@ type it is most sure that it is.
 
 # Version History:
 
-# V-1.00: (2-13-24)
+# V-1.00: (2-9-13-24)
 Initial Version
 Uploaded to Github
+
+# V-2.00: (4-9-24)
+Found Here:
+https://github.com/IsraelShowell/Iris-Flower-Predictor-Vector
 
 # Current Features as of V-1.00:
 - Takes 4 variable values from the user about an Iris flower type 
