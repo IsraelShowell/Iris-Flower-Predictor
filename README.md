@@ -12,6 +12,18 @@ It uses data from the famous iris dataset, and then processes the new input.
 Afterwards, it will show how confidient it is in its prediction, and then add the new flower in as the
 type it is most sure that it is. 
 
+# C++ Concepts Used:
+- Control Structures
+- Memory Management
+  
+# Machine Learning Concepts Used:
+- Statistical Analysis
+- Gaussian (Normal) Distribution
+- Likelihood Estimation
+- Confidence Calculation
+- Feature Extraction
+- Predictive Modeling
+  
 # Version History:
 
 # V-1.00: (2-9-13-24)
