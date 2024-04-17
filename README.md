@@ -24,6 +24,8 @@ type it is most sure that it is.
 - Feature Extraction
 - Predictive Modeling
   
+# NOTE:
+This repo is no longer going to be updated in the forseeable future, as the 2.0.0 version is much easier to use and update!
 # Version History:
 
 # V-1.00: (2-9-13-24)
